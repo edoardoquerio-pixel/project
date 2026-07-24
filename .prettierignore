@@ -1,0 +1,13 @@
+dist
+node_modules
+coverage
+Materie
+Tor Browser
+.venv
+.git
+*.md
+*.txt
+*.json
+.github
+.vscode
+.idea
